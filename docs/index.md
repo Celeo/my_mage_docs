@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# My Mage Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This site is a quick reference for me playing _Mage the Awakening, Second Edition_.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+All content herein, therefore, is sourced from the Core Rulebook, which is the property of White Wolf Publishing.

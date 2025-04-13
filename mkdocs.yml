@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://matt_mage_docs.surge.sh/
+site_name: MtA2 Docs
+site_url: https://celeo.github.io/my_mage_docs
 repo_url: https://github.com/celeo/my_mage_docs
 theme:
   name: material

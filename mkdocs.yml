@@ -1,0 +1,7 @@
+site_name: My Docs
+site_url: https://matt_mage_docs.surge.sh/
+repo_url: https://github.com/celeo/my_mage_docs
+theme:
+  name: material
+  palette:
+    scheme: slate
